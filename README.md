@@ -1,7 +1,7 @@
 # SIMON'S GAME <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg"/>
 
 ## About the game
-In this code along I created Simon Game online version.
+In this project, I created Simon Game online version.
 
 ## Features
 1. HTML
