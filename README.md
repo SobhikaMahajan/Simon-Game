@@ -1,17 +1,18 @@
 # SIMON'S GAME
 
 ## About the game
+In this code along I updated the provided starter files using HTML, CSS, Bootstrap, and Javascript
 
-Alaye it is a simple memory game sha where the computer choses one random box for each level and the player has to choose the box that matches the one chosen by the computer from the starting level to your current level.
+## Features
+1. HTML
+2. CSS
+3. JavaScript
+4. BootStrap
+5. JQuery
 
-### For more information [CLICK HERE](https://en.wikipedia.org/wiki/Simon_(game))
-
-### For instructions [CLICK TO WATCH](https://youtu.be/EWJ5uYwQJGU)
-
-## Stack
-
-- HTML
-- CSS(bootstrap)
-- Javascript(JQuery)
-
-## [Link to the page](https://simon-game-challenge-starting-files.vercel.app/)
+## Technical Information
+To run the site on your local machine 
+  1. Download or clone the repository onto your machine.
+  2. Extract the .zip file.
+  3. Open .html file in your browser.
+  4. Alternatively you can click on the following Site Link to view.
