@@ -1,4 +1,4 @@
-# SIMON'S GAME
+# SIMON'S GAME <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg"/>
 
 ## About the game
 In this code along I updated the provided starter files using HTML, CSS, Bootstrap, and Javascript
